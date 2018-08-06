@@ -1,2 +1,5 @@
 pp_1.PNG
 keys.py
+__pycache__/
+__pycache__/keys.cpython-36.pyc
+*.py[cod]
